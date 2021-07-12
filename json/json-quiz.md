@@ -769,3 +769,12 @@ Note: None of the above options appear to be correct. A correct answer would be 
 - [ ] ->
 - [ ] ::
 - [ ] .
+
+#### Q69. What technique can you use to safely encode very large numbers? 
+
+- [ ] Round the number to the nearest 10-digit number.
+- [ ] Convert the number into an exponent. 
+- [ ] Split the number into smaller parts.
+- [ ] Store the number as a string.
+
+Note: I had this new question but did know the answer. Hopefully somebody on here knows the correct answer and can edit this. 
